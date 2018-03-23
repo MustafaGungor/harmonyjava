@@ -24,6 +24,12 @@
 		<java.version>1.8</java.version>
 	</properties>
 
+	<modules>
+		<module>harmony-cache</module>
+		<module>harmony-i18n</module>
+		<module>harmony-persistence</module>
+	</modules>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
