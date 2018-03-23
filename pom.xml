@@ -27,6 +27,7 @@
 		<module>harmony-i18n</module>
 		<module>harmony-persistence</module>
 		<module>harmony-exception</module>
+		<module>harmony-web</module>
 	</modules>
 
 	<properties>
