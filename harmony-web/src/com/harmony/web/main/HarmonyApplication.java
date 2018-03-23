@@ -1,4 +1,4 @@
-package com.harmonyjava.harmony;
+package com.harmony.web.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
